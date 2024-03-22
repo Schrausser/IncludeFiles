@@ -1,2 +1,2 @@
 # IncludeFiles
-Include files for Android Applications.
+Include files for Android applications.
